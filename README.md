@@ -1,7 +1,12 @@
 # Crawler Repository
-Repository for python webcrawler and twitter crawler
+Repository for twitter web crawler as well as python web crawler for an online directory of Data centers
 
 Contains:
 
-* Python Crawler Script (Datacenters)
 * Assets Folder
+  * Chromedriver
+  * CSV of Crawled Tweets
+  * CSV of Data Center Information
+* Script for Data Center Directory Main Page (datacenter.py)
+* Script for Data Center Directory Individual Pages (datacenter_detail.py)
+* Twitter Crawler Script
