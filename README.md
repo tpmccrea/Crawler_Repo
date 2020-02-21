@@ -1,5 +1,5 @@
 # Crawler Repository
-Repository for twitter web crawler as well as python web crawler for an online directory of Data centers (datacenters.com/locations)
+Repository for twitter web crawler as well as python web crawler for an online directory 
 
 Contains:
 
